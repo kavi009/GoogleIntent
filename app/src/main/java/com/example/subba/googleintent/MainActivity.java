@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button   mButton;
     EditText mEdit;
-    Uri uri;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
